@@ -11,9 +11,7 @@
 ## 📑 Table of Contents
 1. [System Architecture & Features](#-system-architecture--features)
 2. [Mathematical Models](#-mathematical-models)
-3. [Recommended System Specifications](#-recommended-system-specifications)
-4. [Installation & Usage](#-installation--usage)
-5. [Collaboration Guidelines](#-collaboration-guidelines)
+3. [Installation & Usage](#-installation--usage)
 
 ---
 
